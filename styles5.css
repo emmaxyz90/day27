@@ -1,0 +1,37 @@
+*{
+	
+	font-family: verdatta sans-serif;
+}
+
+h2{
+	text-align: center;
+}
+
+.container{
+	width: 60%;
+	margin: auto;
+	padding: 5px;
+	height: auto;
+	border: 4px solid #b3cccc;
+	background-color:#ffb366;
+}
+input{
+	border: none;
+	border-bottom: 2px solid black;
+	width: 40%;
+	padding: 5px 5px 5px 20px;
+	font-size: 20px;
+}
+
+button{
+	width: 100px;
+	border-radius: 5px;
+	background-color: blue;
+	padding: 4px;
+	color: white;
+	font-size: 20px;
+}
+
+li{
+	font-size: 20px;
+}
